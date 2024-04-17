@@ -39,6 +39,7 @@
   "dependencies": {
     "@stdlib/assert-napi-equal-typedarray-types": "^0.2.1",
     "@stdlib/assert-napi-equal-types": "^0.2.1",
+    "@stdlib/assert-napi-has-property": "github:stdlib-js/assert-napi-has-property#main",
     "@stdlib/assert-napi-is-type": "^0.2.1",
     "@stdlib/assert-napi-is-typedarray": "^0.2.1",
     "@stdlib/assert-napi-status-ok": "^0.2.1",
