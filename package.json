@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-napi",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "C utilities for Node-API call assertions.",
   "license": "Apache-2.0",
   "author": {
@@ -37,18 +37,18 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert-napi-equal-typedarray-types": "^0.2.1",
-    "@stdlib/assert-napi-equal-types": "^0.2.1",
-    "@stdlib/assert-napi-has-property": "github:stdlib-js/assert-napi-has-property#main",
-    "@stdlib/assert-napi-is-type": "^0.2.1",
-    "@stdlib/assert-napi-is-typedarray": "^0.2.1",
-    "@stdlib/assert-napi-status-ok": "^0.2.1",
-    "@stdlib/utils-library-manifest": "^0.2.1"
+    "@stdlib/assert-napi-equal-typedarray-types": "^0.2.2",
+    "@stdlib/assert-napi-equal-types": "^0.2.2",
+    "@stdlib/assert-napi-has-property": "^0.0.2",
+    "@stdlib/assert-napi-is-type": "^0.2.2",
+    "@stdlib/assert-napi-is-typedarray": "^0.2.2",
+    "@stdlib/assert-napi-status-ok": "^0.2.2",
+    "@stdlib/utils-library-manifest": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/array-typed": "^0.2.1",
-    "@stdlib/assert-is-browser": "^0.2.1",
-    "@stdlib/utils-try-require": "^0.2.1",
+    "@stdlib/assert-is-browser": "^0.2.2",
+    "@stdlib/utils-try-require": "^0.2.2",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git"
