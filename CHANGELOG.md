@@ -4,9 +4,50 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-10)
+## Unreleased (2025-05-27)
 
-No changes reported for this release.
+<section class="issues">
+
+### Closed Issues
+
+A total of 3 issues were closed in this release:
+
+[#6901](https://github.com/stdlib-js/stdlib/issues/6901), [#6925](https://github.com/stdlib-js/stdlib/issues/6925), [#7084](https://github.com/stdlib-js/stdlib/issues/7084)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`26f5797`](https://github.com/stdlib-js/stdlib/commit/26f5797c30ac9fbdb8a5d11e3dc58ae71813ab0f) - **chore:** fix EditorConfig lint errors [(#7099)](https://github.com/stdlib-js/stdlib/pull/7099) _(by Lalit Narayan Yadav)_
+-   [`669f8e5`](https://github.com/stdlib-js/stdlib/commit/669f8e55d710847a949d08299f580b2d2d6357f8) - **chore:** fix EditorConfig lint errors [(#6937)](https://github.com/stdlib-js/stdlib/pull/6937) _(by Lalit Narayan Yadav, Athan Reines, Shabareesh Shetty, stdlib-bot)_
+-   [`384672f`](https://github.com/stdlib-js/stdlib/commit/384672f535a570ae66d10e24d098a8d12657c9ba) - **chore:** fix EditorConfig lint errors [(#6904)](https://github.com/stdlib-js/stdlib/pull/6904) _(by Dipjyoti Das)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 4 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Dipjyoti Das
+-   Lalit Narayan Yadav
+-   Shabareesh Shetty
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
@@ -16,70 +57,16 @@ No changes reported for this release.
 
 ## 0.3.0 (2024-07-27)
 
-<section class="packages">
-
-### Packages
-
-<section class="package" id="assert-napi-v0.3.0">
-
-#### [@stdlib/assert/napi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/assert/napi)
-
-<details>
-
 <section class="features">
 
-##### Features
+### Features
 
 -   [`b5a5da6`](https://github.com/stdlib-js/stdlib/commit/b5a5da64e43f449318e74136c291a482e2fd1c39) - add API to check for a specified property
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="assert-napi-has-property-v0.3.0">
-
-#### [@stdlib/assert/napi/has-property](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/assert/napi/has-property)
-
-<details>
-
-<section class="features">
-
-##### Features
-
 -   [`16ab7f7`](https://github.com/stdlib-js/stdlib/commit/16ab7f7f7ebef7cb2dad98930d5306d03ec700a1) - add `assert/napi/has-property`
 
 </section>
 
 <!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 2 people contributed to this release. Thank you to the following contributors:
-
--   Athan Reines
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -97,6 +84,19 @@ A total of 2 people contributed to this release. Thank you to the following cont
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
@@ -116,26 +116,6 @@ No changes reported for this release.
 
 ## 0.2.0 (2024-02-14)
 
-<section class="packages">
-
-### Packages
-
-</section>
-
-<!-- /.packages -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
-
 <section class="commits">
 
 ### Commits
@@ -149,6 +129,18 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
@@ -168,217 +160,15 @@ No changes reported for this release.
 
 ## 0.1.0 (2023-09-23)
 
-<section class="packages">
-
-### Packages
-
-<section class="package" id="assert-napi-v0.1.0">
-
-#### [@stdlib/assert/napi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/assert/napi)
-
-<details>
-
 <section class="features">
 
-##### Features
+### Features
 
 -   [`5200ce2`](https://github.com/stdlib-js/stdlib/commit/5200ce2447b32d7a8d351daa5b1868194878d7be) - update minimum TypeScript version
 
 </section>
 
 <!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`5200ce2`](https://github.com/stdlib-js/stdlib/commit/5200ce2447b32d7a8d351daa5b1868194878d7be): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="assert-napi-equal-typedarray-types-v0.1.0">
-
-#### [@stdlib/assert/napi/equal-typedarray-types](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/assert/napi/equal-typedarray-types)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`5200ce2`](https://github.com/stdlib-js/stdlib/commit/5200ce2447b32d7a8d351daa5b1868194878d7be) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`5200ce2`](https://github.com/stdlib-js/stdlib/commit/5200ce2447b32d7a8d351daa5b1868194878d7be): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="assert-napi-equal-types-v0.1.0">
-
-#### [@stdlib/assert/napi/equal-types](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/assert/napi/equal-types)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`5200ce2`](https://github.com/stdlib-js/stdlib/commit/5200ce2447b32d7a8d351daa5b1868194878d7be) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`5200ce2`](https://github.com/stdlib-js/stdlib/commit/5200ce2447b32d7a8d351daa5b1868194878d7be): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="assert-napi-is-type-v0.1.0">
-
-#### [@stdlib/assert/napi/is-type](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/assert/napi/is-type)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`5200ce2`](https://github.com/stdlib-js/stdlib/commit/5200ce2447b32d7a8d351daa5b1868194878d7be) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`5200ce2`](https://github.com/stdlib-js/stdlib/commit/5200ce2447b32d7a8d351daa5b1868194878d7be): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="assert-napi-is-typedarray-v0.1.0">
-
-#### [@stdlib/assert/napi/is-typedarray](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/assert/napi/is-typedarray)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`5200ce2`](https://github.com/stdlib-js/stdlib/commit/5200ce2447b32d7a8d351daa5b1868194878d7be) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`5200ce2`](https://github.com/stdlib-js/stdlib/commit/5200ce2447b32d7a8d351daa5b1868194878d7be): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="assert-napi-status-ok-v0.1.0">
-
-#### [@stdlib/assert/napi/status-ok](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/assert/napi/status-ok)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`5200ce2`](https://github.com/stdlib-js/stdlib/commit/5200ce2447b32d7a8d351daa5b1868194878d7be) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`5200ce2`](https://github.com/stdlib-js/stdlib/commit/5200ce2447b32d7a8d351daa5b1868194878d7be): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
 
 <section class="breaking-changes">
 
@@ -391,18 +181,6 @@ No changes reported for this release.
 </section>
 
 <!-- /.breaking-changes -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -417,6 +195,18 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
