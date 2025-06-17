@@ -4,7 +4,18 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-27)
+## Unreleased (2025-06-17)
+
+<section class="features">
+
+### Features
+
+-   [`f58120f`](https://github.com/stdlib-js/stdlib/commit/f58120f6a16840c817e26f439224a67e1680e21c) - add header for asserting is a Node-API value is a DataView
+-   [`393b4e1`](https://github.com/stdlib-js/stdlib/commit/393b4e118d8152c99490be25c1953f48afc64087) - add `assert/napi/is-dataview`
+
+</section>
+
+<!-- /.features -->
 
 <section class="issues">
 
@@ -24,6 +35,8 @@ A total of 3 issues were closed in this release:
 
 <details>
 
+-   [`f58120f`](https://github.com/stdlib-js/stdlib/commit/f58120f6a16840c817e26f439224a67e1680e21c) - **feat:** add header for asserting is a Node-API value is a DataView _(by Athan Reines)_
+-   [`393b4e1`](https://github.com/stdlib-js/stdlib/commit/393b4e118d8152c99490be25c1953f48afc64087) - **feat:** add `assert/napi/is-dataview` _(by Athan Reines)_
 -   [`26f5797`](https://github.com/stdlib-js/stdlib/commit/26f5797c30ac9fbdb8a5d11e3dc58ae71813ab0f) - **chore:** fix EditorConfig lint errors [(#7099)](https://github.com/stdlib-js/stdlib/pull/7099) _(by Lalit Narayan Yadav)_
 -   [`669f8e5`](https://github.com/stdlib-js/stdlib/commit/669f8e55d710847a949d08299f580b2d2d6357f8) - **chore:** fix EditorConfig lint errors [(#6937)](https://github.com/stdlib-js/stdlib/pull/6937) _(by Lalit Narayan Yadav, Athan Reines, Shabareesh Shetty, stdlib-bot)_
 -   [`384672f`](https://github.com/stdlib-js/stdlib/commit/384672f535a570ae66d10e24d098a8d12657c9ba) - **chore:** fix EditorConfig lint errors [(#6904)](https://github.com/stdlib-js/stdlib/pull/6904) _(by Dipjyoti Das)_
