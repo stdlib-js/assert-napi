@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.4.0">
 
-## Unreleased (2025-06-30)
+## 0.4.0 (2026-01-29)
 
 <section class="features">
 
@@ -35,6 +35,7 @@ A total of 3 issues were closed in this release:
 
 <details>
 
+-   [`6eee151`](https://github.com/stdlib-js/stdlib/commit/6eee15199727d04e3757e66f38384e97b8a333da) - **style:** fix indentation in JSON files _(by Philipp Burckhardt)_
 -   [`cbb9a3c`](https://github.com/stdlib-js/stdlib/commit/cbb9a3cb07582ffd3b2f1406a81fa8fd31dacc3b) - **docs:** minor clean-up _(by Philipp Burckhardt)_
 -   [`f58120f`](https://github.com/stdlib-js/stdlib/commit/f58120f6a16840c817e26f439224a67e1680e21c) - **feat:** add header for asserting is a Node-API value is a DataView _(by Athan Reines)_
 -   [`393b4e1`](https://github.com/stdlib-js/stdlib/commit/393b4e118d8152c99490be25c1953f48afc64087) - **feat:** add `assert/napi/is-dataview` _(by Athan Reines)_
